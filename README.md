@@ -68,17 +68,6 @@ python app.py
 
 The Gradio interface will automatically open in your default web browser, providing access to all features.
 
-## 🌍 Supported Destinations
-
-Current ticket pricing information is available for:
-
-| Destination | Price (USD) |
-| ----------- | ----------- |
-| London      | $799        |
-| Paris       | $899        |
-| Tokyo       | $1,400      |
-| Berlin      | $499        |
-
 ## 🛠️ Technical Stack
 
 - **Frontend**: Gradio (Web Interface)
